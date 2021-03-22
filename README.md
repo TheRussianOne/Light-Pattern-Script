@@ -6,3 +6,8 @@ Using the command /ta true, extra 6 & extra 8 turn on and also turns extra 4 & e
 
 
 **Note, currently this works when the configured to the vehicles I use, however, through the client.lua, you can change and adapt to your server**
+
+# How to install
+1. Drag file into folder
+2. Drag folder in to server directory
+3. Add folder name into server.cfg
